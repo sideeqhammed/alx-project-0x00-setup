@@ -1,6 +1,7 @@
 import { PillProps } from "@/interfaces";
+import {ButtonProps} from "@/interfaces"
 
-const Button: React.FC<PillProps> = ({title, styles}) => {
+const Button: React.FC<PillProps & ButtonProps> = ({title, styles}) => {
   return(
     <div className="flex justify-end items-center">
       <div className={styles}>
