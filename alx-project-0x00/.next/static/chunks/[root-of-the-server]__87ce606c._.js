@@ -970,7 +970,7 @@ const Landing = ()=>{
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$Button$2e$tsx__$5b$client$5d$__$28$ecmascript$29$__["default"], {
                 title: "Book Now",
-                styles: "flex justify-center items-center bg-white px-3 w-auto mb-5 h-[30px] rounded-md"
+                styles: "flex justify-center items-center bg-white px-3 w-auto mb-5 h-[30px] rounded-lg"
             }, void 0, false, {
                 fileName: "[project]/pages/landing.tsx",
                 lineNumber: 11,
@@ -983,10 +983,23 @@ const Landing = ()=>{
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$Button$2e$tsx__$5b$client$5d$__$28$ecmascript$29$__["default"], {
                 title: "Book Now",
-                styles: "flex justify-center items-center bg-white px-3 w-auto mb-5 h-[40px] rounded-sm"
+                styles: "flex justify-center items-center bg-white px-3 w-auto mb-5 h-[30px] rounded-md"
             }, void 0, false, {
                 fileName: "[project]/pages/landing.tsx",
                 lineNumber: 13,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$Card$2e$tsx__$5b$client$5d$__$28$ecmascript$29$__["default"], {}, void 0, false, {
+                fileName: "[project]/pages/landing.tsx",
+                lineNumber: 14,
+                columnNumber: 7
+            }, this),
+            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$react$2f$jsx$2d$dev$2d$runtime$2e$js__$5b$client$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$components$2f$Button$2e$tsx__$5b$client$5d$__$28$ecmascript$29$__["default"], {
+                title: "Book Now",
+                styles: "flex justify-center items-center bg-white px-3 w-auto mb-5 h-[40px] rounded-sm"
+            }, void 0, false, {
+                fileName: "[project]/pages/landing.tsx",
+                lineNumber: 15,
                 columnNumber: 7
             }, this)
         ]
