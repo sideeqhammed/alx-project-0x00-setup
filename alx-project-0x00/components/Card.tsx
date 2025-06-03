@@ -9,7 +9,7 @@ import Button from "./Button"
 const Card: React.FC = () => {
 
  return (
-    <div className="h-auto w-[378.56px] cursor-pointer hover:shadow-md hover:rounded-lg mb-6">
+    <div className="h-auto w-[378.56px] cursor-pointer hover:shadow-md hover:rounded-lg my-3">
       <Image className="rounded-lg" src={HOUSE_IMAGE} width={378.56} height={299.37} alt="house image" />
       <div className="p-2 flex gap-2 mt-2">
         <Pill title="Top Villa" />
@@ -62,11 +62,7 @@ const Card: React.FC = () => {
         <p className=" text-[22px] font-semibold">$2,450<span className=" text-[14px] text-[#787878]">/n</span></p>
 
       </div>
-      <div className="">
-        <Button title= "Book Now" styles= "flex justify-center items-center bg-white px-3 w-auto mt-3 h-[30px] rounded-full"/>
-        <Button title= "Book Now" styles= "flex justify-center items-center bg-white px-3 w-auto mt-3 h-[40px] rounded-sm"/>
-        <Button title= "Book Now" styles= "flex justify-center items-center bg-white px-3 w-auto mt-3 h-[30px] rounded-md"/>
-      </div>
+      
     </div>
     
   )
